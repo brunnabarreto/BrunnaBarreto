@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Brunna Barreto
 
-<!--
-**brunnabarreto/BrunnaBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Desenvolvedora em construção apaixonada por tecnologia e aprendizado contínuo.  
+💡 Explorando o mundo do **Front-end** e **Back-end** com **Java**, **Spring Boot**, **JavaScript** e **React**.  
+⚙️ Curiosa por lógica, gosto de transformar ideias em código — e às vezes em **fórmulas no Excel**.  
+🚀 Sempre evoluindo, um commit de cada vez.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estou aprendendo:
+- Java ☕ | Spring Boot 🌿  
+- JavaScript 💛 | React ⚛️  
+- HTML 🎨 | CSS 💅  
+- Excel 📊
+
+---
+
+### 🌸 Sobre mim:
+Sou uma desenvolvedora em aprendizado constante, determinada a crescer e conquistar meu espaço na tecnologia.  
+Gosto de desafios, de aprender com erros e de ver cada projeto se transformar em algo que me orgulha.
+
+---
+
+### 📫 Vamos nos conectar!
+ 💜 [GitHub](https://github.com/BrunnaBarreto)
+
+
