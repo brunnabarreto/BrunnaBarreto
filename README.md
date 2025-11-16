@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo:
-- Java ☕ | Spring Boot 🌿  
+- Java ☕ | Vue.js
 - JavaScript 💛 | React ⚛️  
 - HTML 🎨 | CSS 💅  
 - Excel 📊
