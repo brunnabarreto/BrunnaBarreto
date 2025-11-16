@@ -1,7 +1,7 @@
 # 👩‍💻 Brunna Barreto
 
 ✨ Desenvolvedora em construção apaixonada por tecnologia e aprendizado contínuo.  
-💡 Explorando o mundo do **Front-end** e **Back-end** com **Java**, **Spring Boot**, **JavaScript** e **React**.  
+💡 Explorando o mundo do **Front-end** e **Back-end** com **Java**, **Spring Boot**, **JavaScript** e **Vue.Js**.  
 ⚙️ Curiosa por lógica, gosto de transformar ideias em código — e às vezes em **fórmulas no Excel**.  
 🚀 Sempre evoluindo, um commit de cada vez.
 
