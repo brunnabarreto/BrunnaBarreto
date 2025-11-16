@@ -8,8 +8,7 @@
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo:
-- Java ☕ | Vue.js
-- JavaScript 💛 | React ⚛️  
+- Java ☕ | Vue.js 
 - HTML 🎨 | CSS 💅  
 - Excel 📊
 
